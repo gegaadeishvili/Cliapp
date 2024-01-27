@@ -1,10 +1,10 @@
 {
-  "name": "cliapp",
+  "name": "cliapplication",
   "version": "1.0.0",
   "description": "",
   "main": "./bin/index.js",
   "bin": {
-    "welc": "./bin/index.js"
+    "weater": "./bin/index.js"
   },
   "keywords": [],
   "author": "",
